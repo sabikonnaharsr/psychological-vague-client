@@ -68,7 +68,7 @@ const Header = () => {
                                 DFGH
                             </p>
                         */}
-                  <p className="text-6xl font-bold text-white">
+                  <p className="text-6xl mt-3 text-center font-bold text-white">
                     {project.projectName}
                   </p>
 
